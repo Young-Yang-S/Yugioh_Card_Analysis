@@ -15,7 +15,7 @@ Most important stuff is to have fun, I know the people who click this link is th
 
 Note: There are some drawbacks of this project
 
-(1) The rarity column only get one word to show the rarity of card which may be ambiguous
+(1) The rarity column only gets one word to show the rarity of card which may be ambiguous
 
 (2) Some cards names which should be the same cards but have different names, like if there is a card name ninja, then it has other name ninja (purple) which could have some bad effects towards the analysis.
 
